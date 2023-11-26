@@ -12,4 +12,5 @@ INSIGHTS:
  
 	Sick Leave percentage and the reason.
 
- ![Screenshot 2023-11-26 225202](https://github.com/Amrutha1907/H_Dashboard/assets/R-Data-analytics101463507/c7611aab-532e-412e-add2-620ff9220ddb)
+<img width="664" alt="Screenshot 2023-11-26 225202" src="https://github.com/Amrutha1907/HR-Data-analytics/assets/101463507/d3484b0b-4c58-40ca-84d9-2da34641b1c5">
+
