@@ -12,4 +12,4 @@ INSIGHTS:
  
 	Sick Leave percentage and the reason.
 
- ![Screenshot 2023-11-26 225202](https://github.com/Amrutha1907/Hospitality_Revenue_Dashboard/assets/101463507/c7611aab-532e-412e-add2-620ff9220ddb)
+ ![Screenshot 2023-11-26 225202](https://github.com/Amrutha1907/H_Dashboard/assets/R-Data-analytics101463507/c7611aab-532e-412e-add2-620ff9220ddb)
