@@ -5,5 +5,7 @@ performance, and leaves. The dashboard streamlined HR processes and increased ef
 
 
 INSIGHTS:
+
 	Working Preference of employees.Is it Work from Office or  Work from home.
+ 
 	Sick Leave percentage and the reason.
